@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-test/static/css/main.c0d3c556.css",
+    "main.js": "/React-test/static/js/main.45c64ab3.js",
+    "static/js/787.2aced39e.chunk.js": "/React-test/static/js/787.2aced39e.chunk.js",
+    "static/media/final_touch-removebg-preview.png": "/React-test/static/media/final_touch-removebg-preview.cb0d8db21a21b4d5165e.png",
+    "static/media/pxfuel.jpg": "/React-test/static/media/pxfuel.483897e126235e7b2b01.jpg",
+    "static/media/Esusu phone.png": "/React-test/static/media/Esusu phone.4da5851488510a192413.png",
+    "static/media/final trial.jpg": "/React-test/static/media/final trial.772c5b7fea6f46b713ae.jpg",
+    "static/media/esusudark.png": "/React-test/static/media/esusudark.d9ec363788b043b5d931.png",
+    "static/media/get_on_both-removebg-preview.png": "/React-test/static/media/get_on_both-removebg-preview.65dc285833afcda7bd69.png",
+    "index.html": "/React-test/index.html",
+    "main.c0d3c556.css.map": "/React-test/static/css/main.c0d3c556.css.map",
+    "main.45c64ab3.js.map": "/React-test/static/js/main.45c64ab3.js.map",
+    "787.2aced39e.chunk.js.map": "/React-test/static/js/787.2aced39e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0d3c556.css",
+    "static/js/main.45c64ab3.js"
+  ]
+}
